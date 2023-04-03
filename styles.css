@@ -115,3 +115,9 @@ span{
 .social a:hover{
     color: orange;
 }
+
+footer{
+    background-color: #3da9fc;
+    display: flex;
+    justify-content: center;
+}
