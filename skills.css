@@ -47,6 +47,11 @@ nav ul li a:hover{
     color: #F4B183;
 }
 
+.paralax .subJudul {
+  text-align: center;
+  color: #5f6c7b;
+}
+
 .paralax {
     
     background-color: #fbfbfc;
@@ -68,7 +73,7 @@ nav ul li a:hover{
 }
   
      .paralax h1{
-        color: #111010;
+      color: orange;
         text-align: center;
        
     }    
@@ -145,3 +150,16 @@ nav ul li a:hover{
         font-weight: bold;
       }
       
+
+      footer{
+   
+        display: flex;
+        justify-content: center;
+        height: 40px;
+        background-color: #d8eefe;
+        margin-top: 5rem;
+      }
+    
+    footer .footer_text {
+        padding-top: 10px;
+    }
