@@ -163,3 +163,43 @@ nav ul li a:hover{
     footer .footer_text {
         padding-top: 10px;
     }
+
+
+    .card_cr {
+      background:#fff;
+      width: 270px;
+      max-height: 300px;
+      margin: 10px;
+      border-radius: 10px;
+      box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+      
+    }
+
+    .card_cr p{
+      padding-bottom: 1rem;
+      text-align: center;
+    }
+    .card-image {
+
+      margin-bottom: 15px;
+      border-radius: 15px 15px 0 0;
+    }
+
+    
+    .card-image img {
+      height: 150px;
+      width: 270px;
+      border-radius: 10px 10px 0 0;
+    }
+
+    .myCert {
+      
+  
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 0px;
+        grid-row-gap: 30px;
+        padding: 20px 20px;
+     }
+    
